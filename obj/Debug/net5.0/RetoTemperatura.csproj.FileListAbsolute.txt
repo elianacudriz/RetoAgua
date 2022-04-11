@@ -1,0 +1,16 @@
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\RetoTemperatura.exe
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\RetoTemperatura.deps.json
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\RetoTemperatura.runtimeconfig.json
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\RetoTemperatura.runtimeconfig.dev.json
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\RetoTemperatura.dll
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\ref\RetoTemperatura.dll
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\bin\Debug\net5.0\RetoTemperatura.pdb
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.csprojAssemblyReference.cache
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.AssemblyInfoInputs.cache
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.AssemblyInfo.cs
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.dll
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\ref\RetoTemperatura.dll
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.pdb
+C:\Users\Eliana Cudriz\Documents\PracticaDesarrollo\Ciclos\RetoTemperatura\obj\Debug\net5.0\RetoTemperatura.genruntimeconfig.cache
